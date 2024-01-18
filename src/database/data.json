@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2021-04-26T02:52:05.551Z",
+    "name": "KD 13",
+    "description": "En los momentos cruciales del partido, KD se crece. Se hace grande en ambos lados de la cancha: asusta a los defensores con sus movimientos imparables y bloquea a los rivales con sus proezas defensivas. Las KD13 te llevan a jugar al nivel de la élite con una amortiguación completa y una unidad adicional en el antepié.",
+    "color": ["White"],
+    "stock": 0,
+    "price": 169.9,
+    "sku": "CK6636-012",
+    "photo": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/db34417c-33d1-47cc-a713-2932ec571a38/custom-nike-kd13-by-you.png",
+    "onSale": false
+  },
+  {
+    "id": 2,
+    "createdAt": "2021-04-26T16:01:20.297Z",
+    "name": "LeBron 18 Low",
+    "description": "El motor de alto rendimiento de LeBron necesita un chasis ligero pero resistente que le ayude a controlar y canalizar su fuerza. Las LeBron 18 Low recuperan el sistema de amortiguación de las 17 para proporcionar un equilibrio óptimo entre comodidad, amortiguación de impactos y capacidad de respuesta. La parte superior incorpora una mezcla de materiales ligeros, revestimientos sin costuras y un talón estructurado para proporcionar una sujeción completa del pie sin renunciar a la movilidad del tobillo.",
+    "color": ["Black", "Violet"],
+    "stock": 1,
+    "price": 119.99,
+    "sku": "CV7562-003",
+    "photo": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/62424792-ac4c-42d6-902d-787a3da60f93/lebron-18-low-zapatillas-de-baloncesto-2JvnRW.png",
+    "onSale": true
+  },
+  {
+    "id": 3,
+    "createdAt": "2021-04-26T16:01:20.297Z",
+    "name": "Zion 1",
+    "description": "Zion no se parece a nada ni a nadie gracias con su actitud realista y sus capacidades casi extraterrestres.En la cancha, su amable personalidad que da máxima prioridad a la familia se transforma en una fuerza de forma física imparable y velocidad sin límites.Las zapatillas Zion 1 son las primeras de su línea exclusiva, y cuentan con un diseño inspirado en su dualidad entre humildad y capacidad superhumana.La amortiguación Air Strobel completa se combina con una unidad Zoom Air en el antepié para ofrecer una sensacional combinación de comodidad suave en la planta del pie y reactividad rápida.Son ligeras, estables y resistentes, y cuentan con una tracción agresiva para ayudar a Zion a dominar la cancha y controlar su poder.",
+    "color": ["Black", "White", "Orange"],
+    "stock": 0,
+    "price": 119.99,
+    "sku": "DA3130-001",
+    "photo": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/070f84af-efa3-4c95-9cbc-dc6c6841c0e3/zion-1-zapatillas-de-baloncesto-p04544.png",
+    "onSale": false
+  },
+  {
+    "id": 4,
+    "createdAt": "2021-04-26T02:52:05.551Z",
+    "name": "Kyrie 7 'Creator'",
+    "description": "Kyrie, uno de los jugadores más creativos del mundo del baloncesto, se inspira en muchas cosas. El cine, la música, el deporte, el arte... Todas estas musas influyen en la actitud vital de Kyrie dentro y fuera de la cancha. Las Kyrie 7 Creator son el resultado de lo que sucedería si pudiéramos ver cómo coexisten las diferentes influencias creativas de Kyrie dentro de su mente. Esta silueta cuenta con un patrón multicolor en la parte superior que hace referencia a cada una de sus musas. La suela exterior aporta un toque de contraste junto con una lengüeta verde y una suela interior color melocotón. El logotipo Swoosh tipo contorno de color negro va a juego con el gráfico de spray de pintura del talón.",
+    "color": ["Black", "White", "Burgundy"],
+    "stock": 3,
+    "price": 119.99,
+    "sku": "CK6636-012",
+    "photo": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b615dab6-c6d2-4d59-beef-2b352e8eb169/kyrie-7-creator-zapatillas-de-baloncesto-rPgzl7.png",
+    "onSale": false
+  },
+  {
+    "id": 5,
+    "createdAt": "2021-04-26T07:58:58.755Z",
+    "name": "LeBron Witness 5",
+    "description": "Eleva tu juego con las LeBron Witness 5, unas zapatillas ligeras y resistentes diseñadas para aportar rapidez. La combinación entre el sistema de sujeción del antepié y la parte rígida del talón hacen que la sujeción sea perfecta. La amortiguación reactiva y la tracción multidireccional te ayuda a mantener el control mientras vas hacia la canasta.",
+    "color": ["White", "Gold"],
+    "stock": 7,
+    "price": 99.99,
+    "sku": "BQ6472-004",
+    "photo": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e4efa0eb-4034-4a23-8119-976fd66fd8c0/lebron-witness-5-zapatillas-de-baloncesto-H81NdB.png",
+    "onSale": true
+  },
+  {
+    "id": 6,
+    "createdAt": "2021-04-26T04:25:22.209Z",
+    "name": "Jordan Max Aura 2",
+    "description": "Las Jordan Max Aura 2 están inspiradas en el rico legado de las zapatillas de baloncesto de alto rendimiento de la marca. El diseño está basado en el pasado de las Air Jordan con una amortiguación ligera y un look que destaca en la calle.",
+    "color": ["Black"],
+    "stock": 8,
+    "price": 129.99,
+    "sku": "DC9188-200",
+    "photo": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a008e06d-1237-4fbd-993b-42533303face/jordan-max-aura-2-zapatillas-wjclL3.jpg",
+    "onSale": false
+  },
+  {
+    "id": 7,
+    "createdAt": "2021-04-26T04:25:22.209Z",
+    "name": "Kyrie",
+    "description": "Kyrie Irving es una fuerza creativa dentro y fuera de la cancha. Necesita que sus zapatillas sigan el ritmo de sus jugadas y sean acordes con su estilo y su espíritu de superación. Las Kyrie 7 se han perfeccionado para la próxima generación de retorno de energía, control y velocidad. Se han optimizado el ajuste de las zapatillas, el tacto de la cancha y las capacidades de inclinación para que jugadores de todos los niveles tomen ventaja en su primer paso rápido.",
+    "color": ["Black", "White"],
+    "stock": 8,
+    "price": 129.99,
+    "sku": "DC9188-300",
+    "photo": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/39f00479-ad39-4e23-a5b3-d548782f0cc3/kyrie-7-zapatillas-de-baloncesto-WTN4WG.png",
+    "onSale": false
+  },
+  {
+    "id": 8,
+    "createdAt": "2021-04-26T04:25:22.209Z",
+    "name": "Air Jordan 7",
+    "description": "En su lanzamiento original en 1992, las Air Jordan 7 coincidieron con la época de mayor esplendor de MJ. His Airness lució el modelo cuando se disponía reclamar su segundo título de la liga consecutivo antes de llevar a Estados Unidos a una serie de éxitos trascendentales a nivel internacional en Barcelona, que dispararon la imaginación de personas de todo el mundo.",
+    "color": ["White", "Grey"],
+    "stock": 8,
+    "price": 189.99,
+    "sku": "DC9190-300",
+    "photo": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/ddeb267e-79a3-4ddd-be40-bb649b79a22e/fecha-de-lanzamiento-de-las-air-jordan-7-flint.jpg",
+    "onSale": false
+  }
+]
