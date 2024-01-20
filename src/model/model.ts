@@ -16,7 +16,6 @@ interface Shoe {
     sku: string,
     photo: string,
     onSale: boolean
-
 }
 
 
@@ -27,6 +26,10 @@ const getByColor = (color: string) => DB.filter((shoe: Shoe) => shoe.color.inclu
 
 
 
-console.log("🚀 ~ getByColor(Black):", getByColor("Violet"))
+ 
+
+export { getAll, getById, getOnSale, getByColor, Shoe}
+
+
 
 
